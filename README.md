@@ -2,4 +2,4 @@
 Mi primer repositorio
 
 
-un omit masdesde GitHu
+Un commit masdesde GitHu
